@@ -1,0 +1,8 @@
+version: 43.0.9
+pageUuid: 20cfc5c2-1849-11ed-963a-8f0a416c0b27
+appTemplate:
+  rootScreen: tabscreen
+  isMobileApp: true
+  version: 2.98.0
+  multiScreenMobileApp: true
+  markdownLinkBehavior: auto
