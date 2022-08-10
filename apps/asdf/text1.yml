@@ -3,7 +3,7 @@ type: widget
 subtype: RNTextWidget
 template:
   ordered:
-    - value: main
+    - value: branch
     - size: medium
     - weight: normal
     - width: full
