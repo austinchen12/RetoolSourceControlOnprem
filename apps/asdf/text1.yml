@@ -1,0 +1,18 @@
+id: text1
+type: widget
+subtype: RNTextWidget
+template:
+  ordered:
+    - value: main
+    - size: medium
+    - weight: normal
+    - width: full
+    - textAlign: left
+style:
+  ordered: []
+position2:
+  position2: {}
+mobileAppPosition:
+  mobilePosition: {}
+createdAt: 2022-08-10T01:09:55.017Z
+screen: screen1
